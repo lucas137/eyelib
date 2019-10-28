@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="eyelib.cbp" />
+		<Project filename="calib/eyelib-calib.cbp">
+			<Depends filename="eyelib.cbp" />
+		</Project>
+		<Project filename="datalog/datalog.cbp">
+			<Depends filename="eyelib.cbp" />
+		</Project>
+		<Project filename="test/eyelib-test.cbp">
+			<Depends filename="eyelib.cbp" />
+		</Project>
+		<Project filename="window/eyelib-window.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
