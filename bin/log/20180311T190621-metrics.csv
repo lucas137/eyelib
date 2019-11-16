@@ -1,6 +1,0 @@
-eyelib-test,2018-03-11T19:06:21
-time_ms,epoch_ms,DT_points,DT_dmax,VT_dmax,FrameRate,SampleSeconds,SampleWindow
-30640887,1520809581859,10,72,10,60,5,300
-,blink,,,,,,,target,,,,fixation,,,,,,,,,,,,,,,saccade,,,pupillometry
-,flag,duration,,,interval,,,sequence,point,,,flag,detection,,,,,,,,duration,,,interval,,,distance_sq,,,pupil_size,,metrics
-time_ms,eyes_closed,mean,max,sum,mean,max,sum,started,x,y,active,fixation,raw_x,raw_y,dt,vt,avg_x,avg_y,dt,vt,mean,max,sum,mean,max,sum,mean,max,sum,left_pupil_size,right_pupil_size,mean,max,sum
