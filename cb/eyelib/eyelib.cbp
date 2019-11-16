@@ -4,14 +4,14 @@
 	<Project>
 		<Option title="eyelib" />
 		<Option pch_mode="2" />
-		<Option compiler="gnu_gcc_compiler_mingw-w64-x86_64-gcc" />
+		<Option compiler="gcc" />
 		<Build>
 			<Target title="Release">
 				<Option output="../../lib/eyelib" prefix_auto="1" extension_auto="1" />
 				<Option working_dir="" />
 				<Option object_output="../../obj/" />
 				<Option type="2" />
-				<Option compiler="gnu_gcc_compiler_mingw-w64-x86_64-gcc" />
+				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
 				</Compiler>
@@ -40,9 +40,6 @@
 			<Add library="ws2_32" />
 			<Add library="wsock32" />
 		</Linker>
-		<Unit filename="../../doxygen/eyelib/config/config.doxy" />
-		<Unit filename="../../doxygen/eyelib/config/extra.css" />
-		<Unit filename="../../doxygen/eyelib/doxyfile" />
 		<Unit filename="../../include/eyelib.hpp" />
 		<Unit filename="../../include/eyelib/calibration.hpp" />
 		<Unit filename="../../include/eyelib/gaze.hpp" />
@@ -85,6 +82,9 @@
 		<Unit filename="../../src/eyelib/window/text_widget.hpp" />
 		<Unit filename="../../src/eyelib/window/window.cpp" />
 		<Unit filename="../../src/eyelib/window/window.hpp" />
+		<Unit filename="doc/config/config.doxy" />
+		<Unit filename="doc/config/extra.css" />
+		<Unit filename="doc/doxyfile" />
 		<Extensions>
 			<code_completion />
 			<envvars />

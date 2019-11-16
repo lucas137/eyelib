@@ -41,9 +41,6 @@
 			<Add library="wsock32" />
 			<Add directory="$(#eyelib.lib)" />
 		</Linker>
-		<Unit filename="../../doxygen/window/config/config.doxy" />
-		<Unit filename="../../doxygen/window/config/extra.css" />
-		<Unit filename="../../doxygen/window/doxyfile" />
 		<Unit filename="../../src/window/eyelib_window.cpp" />
 		<Extensions>
 			<code_completion />

@@ -41,7 +41,6 @@
 			<Add library="wsock32" />
 			<Add directory="$(#eyelib.lib)" />
 		</Linker>
-		<Unit filename="../../doxygen/datalog/doxyfile" />
 		<Unit filename="../../src/datalog/datalog.cpp" />
 		<Unit filename="../../src/datalog/datalog.hpp" />
 		<Extensions>
