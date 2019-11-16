@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="eyelib" />
+		<Option pch_mode="2" />
+		<Option compiler="gnu_gcc_compiler_mingw-w64-x86_64-gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="../../lib/eyelib" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="../../obj/" />
+				<Option type="2" />
+				<Option compiler="gnu_gcc_compiler_mingw-w64-x86_64-gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add option="-DWIN32" />
+			<Add directory="$(#asio.include)" />
+			<Add directory="$(#utl.include)" />
+			<Add directory="$(#eyelib.include)" />
+			<Add directory="$(#eyelib)/src/eyelib" />
+		</Compiler>
+		<Linker>
+			<Add option="-static" />
+			<Add library="fltk" />
+			<Add library="comctl32" />
+			<Add library="gdi32" />
+			<Add library="ole32" />
+			<Add library="uuid" />
+			<Add library="ws2_32" />
+			<Add library="wsock32" />
+		</Linker>
+		<Unit filename="../../doxygen/eyelib/config/config.doxy" />
+		<Unit filename="../../doxygen/eyelib/config/extra.css" />
+		<Unit filename="../../doxygen/eyelib/doxyfile" />
+		<Unit filename="../../include/eyelib.hpp" />
+		<Unit filename="../../include/eyelib/calibration.hpp" />
+		<Unit filename="../../include/eyelib/gaze.hpp" />
+		<Unit filename="../../include/eyelib/gaze/dispersion_threshold.hpp" />
+		<Unit filename="../../include/eyelib/gaze/fixation.hpp" />
+		<Unit filename="../../include/eyelib/gaze/metrics.hpp" />
+		<Unit filename="../../include/eyelib/gaze/point_cluster.hpp" />
+		<Unit filename="../../include/eyelib/gaze/velocity_threshold.hpp" />
+		<Unit filename="../../include/eyelib/screen.hpp" />
+		<Unit filename="../../include/eyelib/tracker.hpp" />
+		<Unit filename="../../src/eyelib/calibration/calib_eyes.hpp" />
+		<Unit filename="../../src/eyelib/calibration/calib_point.hpp" />
+		<Unit filename="../../src/eyelib/calibration/calib_rating.hpp" />
+		<Unit filename="../../src/eyelib/calibration/calibration.cpp" />
+		<Unit filename="../../src/eyelib/calibration/calibrator.cpp" />
+		<Unit filename="../../src/eyelib/calibration/calibrator.hpp" />
+		<Unit filename="../../src/eyelib/debug/debug_out.hpp" />
+		<Unit filename="../../src/eyelib/gaze/dispersion_threshold.cpp" />
+		<Unit filename="../../src/eyelib/gaze/fixation.cpp" />
+		<Unit filename="../../src/eyelib/gaze/gaze.cpp" />
+		<Unit filename="../../src/eyelib/gaze/gaze_target.cpp" />
+		<Unit filename="../../src/eyelib/gaze/gaze_target.hpp" />
+		<Unit filename="../../src/eyelib/gaze/point_cluster.cpp" />
+		<Unit filename="../../src/eyelib/gaze/velocity_threshold.cpp" />
+		<Unit filename="../../src/eyelib/screen/screen.cpp" />
+		<Unit filename="../../src/eyelib/tracker/message.cpp" />
+		<Unit filename="../../src/eyelib/tracker/message.hpp" />
+		<Unit filename="../../src/eyelib/tracker/message_test.cpp" />
+		<Unit filename="../../src/eyelib/tracker/tracker.cpp" />
+		<Unit filename="../../src/eyelib/tracker/tracker_state.cpp" />
+		<Unit filename="../../src/eyelib/window/calib_widget.cpp" />
+		<Unit filename="../../src/eyelib/window/calib_widget.hpp" />
+		<Unit filename="../../src/eyelib/window/event.cpp" />
+		<Unit filename="../../src/eyelib/window/event.hpp" />
+		<Unit filename="../../src/eyelib/window/gaze_widget.cpp" />
+		<Unit filename="../../src/eyelib/window/gaze_widget.hpp" />
+		<Unit filename="../../src/eyelib/window/target_widget.cpp" />
+		<Unit filename="../../src/eyelib/window/target_widget.hpp" />
+		<Unit filename="../../src/eyelib/window/text_widget.cpp" />
+		<Unit filename="../../src/eyelib/window/text_widget.hpp" />
+		<Unit filename="../../src/eyelib/window/window.cpp" />
+		<Unit filename="../../src/eyelib/window/window.hpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project output_directory="doc" />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
