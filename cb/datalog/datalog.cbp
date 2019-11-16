@@ -26,6 +26,7 @@
 			<Add option="-D_WIN32_WINNT=0x0601" />
 			<Add option="-D_WINVER=0x0601" />
 			<Add directory="$(#utl.include)" />
+			<Add directory="$(#fl.include)" />
 			<Add directory="$(#eyelib.include)" />
 			<Add directory="$(#eyelib)/src/datalog" />
 		</Compiler>
@@ -39,6 +40,7 @@
 			<Add library="uuid" />
 			<Add library="ws2_32" />
 			<Add library="wsock32" />
+			<Add directory="$(#fl.lib)" />
 			<Add directory="$(#eyelib.lib)" />
 		</Linker>
 		<Unit filename="../../src/datalog/datalog.cpp" />

@@ -26,6 +26,7 @@
 			<Add option="-DWIN32" />
 			<Add directory="$(#asio.include)" />
 			<Add directory="$(#utl.include)" />
+			<Add directory="$(#fl.include)" />
 			<Add directory="$(#eyelib.include)" />
 			<Add directory="$(#eyelib)/src/window" />
 		</Compiler>
@@ -39,6 +40,7 @@
 			<Add library="uuid" />
 			<Add library="ws2_32" />
 			<Add library="wsock32" />
+			<Add directory="$(#fl.lib)" />
 			<Add directory="$(#eyelib.lib)" />
 		</Linker>
 		<Unit filename="../../src/window/eyelib_window.cpp" />
