@@ -5,6 +5,7 @@
 
 #include <eyelib/gaze/dispersion_threshold.hpp>
 
+#include <numeric>>   // std::accumulate
 #include <algorithm>  // std::minmax_element
 
 namespace eye {
