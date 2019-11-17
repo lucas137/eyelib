@@ -4,7 +4,7 @@
 		<Project filename="eyelib/eyelib.cbp" />
 		<Project filename="calib/eyelib-calib.cbp" />
 		<Project filename="datalog/datalog.cbp" />
-		<Project filename="test/eyelib-test.cbp" />
 		<Project filename="window/eyelib-window.cbp" />
+		<Project filename="../test/cb/eyelib-test.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
