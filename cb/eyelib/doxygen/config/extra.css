@@ -1,0 +1,53 @@
+/******************************************************************************
+  Cascading Style Sheet (CSS) custom stylesheet for
+  Doxygen's HTML_EXTRA_STYLESHEET configuration tag.
+
+  http://stackoverflow.com/questions/165451/suggest-a-good-doxygen-stylesheet
+******************************************************************************/
+
+body {
+    /*background-color: #d0d7dd;*/
+    background-color: silver;
+    color: black;
+    margin: 0;
+}
+
+#titlearea {
+    background-color: slategray;
+    color: white;
+}
+
+/*  Fixed-width contents area
+  width 740px fits:
+  - code blocks up to 80 characters wide
+  - contents on left or right half of a 1600x900 screen
+  width 920px fits:
+  - contents on left or right half of a 1920x1200 screen
+  - treeview and contents at 80% zoom
+    on left or right half of a 1920x1200 screen
+*/
+div.contents {
+    margin-bottom: 10px;
+    padding: 12px;
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 920px;*/
+    background-color: white;
+    /*border-radius: 4px;*/
+}
+
+div.line {
+    font-family: consolas, monospace, fixed;
+    font-size: 105%;
+    line-height: 115%;
+}
+
+/* Captions above tables */
+caption {
+    caption-side: top;
+}
+
+/* Prefer Consolas font for <code>, <tt>, and <pre> text */
+code, tt, pre {
+    font-family: consolas, monospace, fixed;
+}

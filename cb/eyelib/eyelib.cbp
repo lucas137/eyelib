@@ -21,9 +21,9 @@
 			</Target>
 		</Build>
 		<Compiler>
-			<Add option="-std=c++11" />
 			<Add option="-Wall" />
 			<Add option="-std=c++14" />
+			<Add option="-std=c++11" />
 			<Add option="-DWIN32" />
 			<Add directory="$(#asio.include)" />
 			<Add directory="$(#utl.include)" />
@@ -52,6 +52,7 @@
 		<Unit filename="../../include/eyelib/gaze/velocity_threshold.hpp" />
 		<Unit filename="../../include/eyelib/screen.hpp" />
 		<Unit filename="../../include/eyelib/tracker.hpp" />
+		<Unit filename="../../src/eyelib/build.cpp" />
 		<Unit filename="../../src/eyelib/calibration/calib_eyes.hpp" />
 		<Unit filename="../../src/eyelib/calibration/calib_point.hpp" />
 		<Unit filename="../../src/eyelib/calibration/calib_rating.hpp" />
@@ -84,16 +85,16 @@
 		<Unit filename="../../src/eyelib/window/text_widget.hpp" />
 		<Unit filename="../../src/eyelib/window/window.cpp" />
 		<Unit filename="../../src/eyelib/window/window.hpp" />
-		<Unit filename="doc/config/config.doxy" />
-		<Unit filename="doc/config/extra.css" />
-		<Unit filename="doc/doxyfile" />
+		<Unit filename="doxygen/config/config.doxy" />
+		<Unit filename="doxygen/config/extra.css" />
+		<Unit filename="doxygen/doxyfile" />
 		<Extensions>
 			<code_completion />
 			<envvars />
 			<debugger />
 			<DoxyBlocks>
 				<comment_style block="0" line="0" />
-				<doxyfile_project output_directory="doc" />
+				<doxyfile_project />
 				<doxyfile_build />
 				<doxyfile_warnings />
 				<doxyfile_output />

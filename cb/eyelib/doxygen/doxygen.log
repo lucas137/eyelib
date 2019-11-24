@@ -1,0 +1,9 @@
+D:/Lucas/projects/eyetracking/eyelib/src/eyelib/window/text_widget.hpp:16: warning: group text: ignoring title "Window Text" that does not match old title "Window Gaze Point"
+
+D:/Lucas/projects/eyetracking/eyelib/src/eyelib/calibration/calib_rating.hpp:53: warning: argument 'rating' of command @param is not found in the argument list of eye::calib_rating_str(bool is_calibrated, float error_deg)
+D:/Lucas/projects/eyetracking/eyelib/src/eyelib/calibration/calib_rating.hpp:53: warning: argument 'deg' of command @param is not found in the argument list of eye::calib_rating_str(bool is_calibrated, float error_deg)
+D:/Lucas/projects/eyetracking/eyelib/src/eyelib/calibration/calib_rating.hpp:58: warning: The following parameters of eye::calib_rating_str(bool is_calibrated, float error_deg) are not documented:
+  parameter 'is_calibrated'
+  parameter 'error_deg'
+D:/Lucas/projects/eyetracking/eyelib/src/eyelib/gaze/gaze_target.hpp:44: warning: The following parameters of eye::GazeTarget::register_window(Window &win, bool event=true) are not documented:
+  parameter 'win'

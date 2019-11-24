@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1488143491 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calibration.cpp
+1574623025 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calibration.cpp
 	<eyelib/calibration.hpp>
 	"calibration/calib_point.hpp"
 	"calibration/calib_rating.hpp"
@@ -8,13 +8,13 @@
 	<ostream>
 	<string>
 
-1488659555 d:\lucas\projects\eyetracking\eyelib\include\eyelib\calibration.hpp
+1574623319 d:\lucas\projects\eyetracking\eyelib\include\eyelib\calibration.hpp
 	<eyelib/screen.hpp>
 	<ostream>
 	<string>
 	<vector>
 
-1488659514 d:\lucas\projects\eyetracking\eyelib\include\eyelib\screen.hpp
+1574623329 d:\lucas\projects\eyetracking\eyelib\include\eyelib\screen.hpp
 	<utl/color.hpp>
 	<string>
 	<ostream>
@@ -24,42 +24,42 @@
 	<string>
 	<ostream>
 
-1470255162 d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calib_point.hpp
+1574623015 d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calib_point.hpp
 	"calibration/calib_eyes.hpp"
 	<sstream>
 	<ostream>
 	<iomanip>
 	<string>
 
-1469323183 d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calib_eyes.hpp
+1574623009 d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calib_eyes.hpp
 	<sstream>
 	<ostream>
 	<string>
 
-1488655151 d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calib_rating.hpp
+1574623019 d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calib_rating.hpp
 	<sstream>
 	<ostream>
 	<iomanip>
 	<string>
 
-1478906860 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calibrator.cpp
+1574623030 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calibrator.cpp
 	"calibration/calibrator.hpp"
 	"debug/debug_out.hpp"
 	<iostream>
 
-1469843346 d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calibrator.hpp
+1574623035 d:\lucas\projects\eyetracking\eyelib\src\eyelib\calibration\calibrator.hpp
 	<eyelib/screen.hpp>
 	"gaze/gaze_target.hpp"
 	"tracker/message.hpp"
 	"window/window.hpp"
 	<utl/asio/tcp/client.hpp>
 
-1479598036 d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\gaze_target.hpp
+1574623131 d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\gaze_target.hpp
 	"window/window.hpp"
 	<functional>
 	<mutex>
 
-1478732198 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\window.hpp
+1574623276 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\window.hpp
 	<eyelib.hpp>
 	"window/event.hpp"
 	<vector>
@@ -68,13 +68,14 @@
 	<functional>
 	<memory>
 
-1484617339 d:\lucas\projects\eyetracking\eyelib\include\eyelib.hpp
+1574635990 d:\lucas\projects\eyetracking\eyelib\include\eyelib.hpp
+	<string>
 	<eyelib/calibration.hpp>
 	<eyelib/gaze.hpp>
 	<eyelib/screen.hpp>
 	<eyelib/tracker.hpp>
 
-1488659787 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze.hpp
+1574623324 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze.hpp
 	<eyelib/screen.hpp>
 	<eyelib/gaze/metrics.hpp>
 	<eyelib/gaze/point_cluster.hpp>
@@ -86,7 +87,7 @@
 	<ostream>
 	<string>
 
-1520815101 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\metrics.hpp
+1574623303 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\metrics.hpp
 	<eyelib/screen.hpp>
 	<utl/math.hpp>
 
@@ -95,27 +96,27 @@
 	<deque>
 	<type_traits>
 
-1479496226 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\point_cluster.hpp
+1574623308 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\point_cluster.hpp
 	<deque>
 
-1485650735 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\dispersion_threshold.hpp
+1574623293 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\dispersion_threshold.hpp
 	<deque>
 
-1487964662 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\velocity_threshold.hpp
+1574623313 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\velocity_threshold.hpp
 	<vector>
 
-1502593283 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\fixation.hpp
+1574623299 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\fixation.hpp
 	<eyelib/screen.hpp>
 
-1520808091 d:\lucas\projects\eyetracking\eyelib\include\eyelib\tracker.hpp
+1574623334 d:\lucas\projects\eyetracking\eyelib\include\eyelib\tracker.hpp
 	<functional>
 	<string>
 	<memory>
 
-1478905815 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\event.hpp
+1574623218 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\event.hpp
 	<string>
 
-1532109474 d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\message.hpp
+1574623157 d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\message.hpp
 	<eyelib.hpp>
 	<utl/json.hpp>
 	<ostream>
@@ -3588,22 +3589,23 @@
 	"asio/detail/push_options.hpp"
 	"asio/detail/pop_options.hpp"
 
-1478732222 d:\lucas\projects\eyetracking\eyelib\src\eyelib\debug\debug_out.hpp
+1574623090 d:\lucas\projects\eyetracking\eyelib\src\eyelib\debug\debug_out.hpp
 	<iostream>
 	<string>
 
-1485651195 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\dispersion_threshold.cpp
+1574623103 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\dispersion_threshold.cpp
 	<eyelib/gaze/dispersion_threshold.hpp>
+	<numeric>
 	<algorithm>
 
-1502593279 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\fixation.cpp
+1574623111 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\fixation.cpp
 	<eyelib/gaze/fixation.hpp>
 	<iostream>
 
-1484426175 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\gaze.cpp
+1574623117 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\gaze.cpp
 	<eyelib/gaze.hpp>
 
-1487640452 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\gaze_target.cpp
+1574623121 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\gaze_target.cpp
 	"gaze/gaze_target.hpp"
 	<utl/randomize.hpp>
 	<thread>
@@ -3617,16 +3619,16 @@
 	<random>
 	<vector>
 
-1484426214 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\point_cluster.cpp
+1574623136 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\point_cluster.cpp
 	<eyelib/gaze/point_cluster.hpp>
 	<numeric>
 
-1485651529 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\velocity_threshold.cpp
+1574623140 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\gaze\velocity_threshold.cpp
 	<eyelib/gaze/velocity_threshold.hpp>
 	<cmath>
 	<numeric>
 
-1520808491 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\screen\screen.cpp
+1574623147 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\screen\screen.cpp
 	<eyelib/screen.hpp>
 	<FL/Fl.H>
 	<algorithm>
@@ -3634,7 +3636,7 @@
 	<sstream>
 	<iostream>
 
-1476636431 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\message.cpp
+1574623151 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\message.cpp
 	"tracker/message.hpp"
 	"calibration/calib_point.hpp"
 	"calibration/calib_rating.hpp"
@@ -3643,7 +3645,7 @@
 	<array>
 	<exception>
 
-1476636510 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\message_test.cpp
+1574623162 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\message_test.cpp
 	"tracker/message.hpp"
 	<eyelib/screen.hpp>
 	<utl/json.hpp>
@@ -3652,7 +3654,7 @@
 	<vector>
 	<exception>
 
-1532109333 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\tracker.cpp
+1574623173 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\tracker.cpp
 	<eyelib.hpp>
 	"calibration/calibrator.hpp"
 	"debug/debug_out.hpp"
@@ -3660,7 +3662,6 @@
 	"tracker/message.hpp"
 	"window/window.hpp"
 	<utl/asio/tcp/client.hpp>
-	<utl/compile.hpp>
 	<utl/json.hpp>
 	<utl/memory.hpp>
 	<utl/string.hpp>
@@ -3693,18 +3694,18 @@
 	<string>
 	<sstream>
 
-1469416673 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\tracker_state.cpp
+1574623179 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\tracker\tracker_state.cpp
 	<eyelib.hpp>
 	<tuple>
 	<string>
 	<ostream>
 
-1479063783 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\calib_widget.cpp
+1574623184 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\calib_widget.cpp
 	"window/calib_widget.hpp"
 	<utl/color.hpp>
 	<utl/fltk/fltk_draw.hpp>
 
-1478732162 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\calib_widget.hpp
+1574623206 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\calib_widget.hpp
 	<eyelib/calibration.hpp>
 	<utl/color.hpp>
 	<vector>
@@ -3714,42 +3715,42 @@
 	<FL/Fl.H>
 	<FL/fl_draw.H>
 
-1506806540 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\event.cpp
+1574623210 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\event.cpp
 	"window/event.hpp"
 	<FL/Fl.H>
 	<FL/names.h>
 	<FL/Enumerations.H>
 	<algorithm>
 
-1469325888 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\gaze_widget.cpp
+1574623226 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\gaze_widget.cpp
 	"window/gaze_widget.hpp"
 	<utl/color.hpp>
 	<utl/fltk/fltk_draw.hpp>
 
-1478732177 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\gaze_widget.hpp
+1574623234 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\gaze_widget.hpp
 	<eyelib/gaze.hpp>
 
-1487991273 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\target_widget.cpp
+1574623240 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\target_widget.cpp
 	"window/target_widget.hpp"
 	<utl/color.hpp>
 	<utl/fltk/fltk_draw.hpp>
 
-1479063605 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\target_widget.hpp
+1574623250 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\target_widget.hpp
 	<eyelib.hpp>
 	<vector>
 
-1474817826 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\text_widget.cpp
+1574623256 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\text_widget.cpp
 	"window/text_widget.hpp"
 	<FL/fl_draw.H>
 	<algorithm>
 	<iostream>
 	<exception>
 
-1478732189 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\text_widget.hpp
+1574623264 d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\text_widget.hpp
 	<array>
 	<string>
 
-1478906545 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\window.cpp
+1574623270 source:d:\lucas\projects\eyetracking\eyelib\src\eyelib\window\window.cpp
 	"window/window.hpp"
 	<eyelib.hpp>
 	"debug/debug_out.hpp"
@@ -3770,4 +3771,145 @@
 
 1573512499 d:\lucas\projects\utl\utl\fltk\fltk_lock.hpp
 	<FL/Fl.H>
+
+1414681522 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl.h
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+
+1311047370 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo-xlib.h>
+	<cairo-win32.h>
+	<cairo-quartz.h>
+
+1408620588 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_export.h
+
+1409214847 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1311047370 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_types.h
+
+1413403220 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\enumerations.h
+	"Fl_Export.H"
+	"fl_types.h"
+
+1411050355 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1414610746 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1410770105 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1414588868 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1409310611 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_group.h
+	"Fl_Widget.H"
+
+1410162949 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1393080710 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1413289979 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1410614993 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1414609862 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1311047370 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1379359514 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1352234774 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1311047370 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1332517673 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\names.h
+	<FL/names.h>
+	<FL/names.h>
+
+1355245601 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_ask.h
+	"Enumerations.H"
+
+1343101042 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1400651819 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_text_display.h
+	"fl_draw.H"
+	"Fl_Group.H"
+	"Fl_Widget.H"
+	"Fl_Scrollbar.H"
+	"Fl_Text_Buffer.H"
+	<FL/FL_Text_Display.H>
+
+1317533113 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_scrollbar.h
+	"Fl_Slider.H"
+
+1338215952 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_slider.h
+	"Fl_Valuator.H"
+
+1311047370 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_valuator.h
+	"Fl_Widget.H"
+
+1376318817 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_text_buffer.h
+	<assert.h>
+	"Fl_Export.H"
+
+1410026623 d:\lucas\projects\common\fltk\fltk-1.3.3\fl\fl_menu_item.h
+	"Fl_Widget.H"
+	"Fl_Image.H"
 

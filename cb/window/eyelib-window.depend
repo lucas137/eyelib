@@ -4403,25 +4403,26 @@
 	<string>
 	<vector>
 
-1484617339 d:\lucas\projects\eyetracking\eyelib\include\eyelib.hpp
+1574623822 d:\lucas\projects\eyetracking\eyelib\include\eyelib.hpp
+	<string>
 	<eyelib/calibration.hpp>
 	<eyelib/gaze.hpp>
 	<eyelib/screen.hpp>
 	<eyelib/tracker.hpp>
 
-1488659555 d:\lucas\projects\eyetracking\eyelib\include\eyelib\calibration.hpp
+1574623319 d:\lucas\projects\eyetracking\eyelib\include\eyelib\calibration.hpp
 	<eyelib/screen.hpp>
 	<ostream>
 	<string>
 	<vector>
 
-1488659514 d:\lucas\projects\eyetracking\eyelib\include\eyelib\screen.hpp
+1574623329 d:\lucas\projects\eyetracking\eyelib\include\eyelib\screen.hpp
 	<utl/color.hpp>
 	<string>
 	<ostream>
 	<vector>
 
-1488659787 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze.hpp
+1574623324 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze.hpp
 	<eyelib/screen.hpp>
 	<eyelib/gaze/metrics.hpp>
 	<eyelib/gaze/point_cluster.hpp>
@@ -4433,7 +4434,7 @@
 	<ostream>
 	<string>
 
-1520808091 d:\lucas\projects\eyetracking\eyelib\include\eyelib\tracker.hpp
+1574623334 d:\lucas\projects\eyetracking\eyelib\include\eyelib\tracker.hpp
 	<functional>
 	<string>
 	<memory>
@@ -4446,13 +4447,13 @@
 	<string>
 	<vector>
 
-1485650735 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\dispersion_threshold.hpp
+1574623293 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\dispersion_threshold.hpp
 	<deque>
 
-1487964662 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\velocity_threshold.hpp
+1574623313 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\velocity_threshold.hpp
 	<vector>
 
-1520815101 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\metrics.hpp
+1574623303 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\metrics.hpp
 	<eyelib/screen.hpp>
 	<utl/math.hpp>
 
@@ -4461,13 +4462,13 @@
 	<deque>
 	<type_traits>
 
-1479496226 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\point_cluster.hpp
+1574623308 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\point_cluster.hpp
 	<deque>
 
-1502593283 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\fixation.hpp
+1574623299 d:\lucas\projects\eyetracking\eyelib\include\eyelib\gaze\fixation.hpp
 	<eyelib/screen.hpp>
 
-1488138875 source:d:\lucas\projects\eyetracking\eyelib\src\window\eyelib_window.cpp
+1574623450 source:d:\lucas\projects\eyetracking\eyelib\src\window\eyelib_window.cpp
 	<eyelib.hpp>
 	<exception>
 	<iostream>
