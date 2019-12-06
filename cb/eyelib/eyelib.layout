@@ -2,197 +2,7 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Release" />
-	<File name="doxygen\config\config.doxy" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="3742" topLine="56" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\calibration\calibrator.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="doxygen\config\extra.css" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="507" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\debug\debug_out.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="470" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="doxygen\doxyfile" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="388" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\gaze\dispersion_threshold.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\gaze\fixation.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\gaze\gaze.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\gaze\gaze_target.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\gaze\gaze_target.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\gaze\point_cluster.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\gaze\velocity_threshold.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\screen\screen.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="3" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\tracker\message.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\tracker\message.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\tracker\message_test.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\tracker\tracker.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1260" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib.hpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1717" topLine="9" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\tracker\tracker_state.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\calibration.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
 	<File name="..\..\src\eyelib\window\calib_widget.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\gaze.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\gaze\dispersion_threshold.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\window\event.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\gaze\fixation.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\window\event.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1412" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\gaze\metrics.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\window\gaze_widget.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1260" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\gaze\point_cluster.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\window\gaze_widget.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1412" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\gaze\velocity_threshold.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\window\target_widget.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\screen.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1523" topLine="108" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\window\target_widget.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1415" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\include\eyelib\tracker.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1571" topLine="15" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\window\text_widget.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\calibration\calib_point.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1258" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\window\text_widget.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="1406" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="..\..\src\eyelib\calibration\calib_rating.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="1258" topLine="0" />
 		</Cursor>
@@ -202,7 +12,27 @@
 			<Cursor1 position="1258" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="..\..\src\eyelib\window\window.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\src\eyelib\window\event.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\calibration\calib_point.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\window\event.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1412" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\calibration\calib_rating.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\window\gaze_widget.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="1260" topLine="0" />
 		</Cursor>
@@ -212,12 +42,182 @@
 			<Cursor1 position="1258" topLine="0" />
 		</Cursor>
 	</File>
+	<File name="..\..\src\eyelib\window\gaze_widget.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1412" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\calibration\calibrator.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\window\target_widget.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\calibration\calibrator.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\window\target_widget.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1415" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\debug\debug_out.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="470" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\window\text_widget.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\gaze\dispersion_threshold.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\window\text_widget.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1406" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\gaze\fixation.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib.hpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1717" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\window\window.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1260" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\gaze\gaze.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\calibration.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
 	<File name="..\..\src\eyelib\window\window.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="1258" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="..\..\src\eyelib\calibration\calibrator.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="..\..\src\eyelib\gaze\gaze_target.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\gaze.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="doxygen\config\config.doxy" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3742" topLine="56" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\gaze\gaze_target.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\gaze\dispersion_threshold.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="doxygen\config\extra.css" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="507" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\gaze\point_cluster.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\gaze\fixation.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="doxygen\doxyfile" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="388" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\gaze\velocity_threshold.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\gaze\metrics.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\screen\screen.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\gaze\point_cluster.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\tracker\message.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\gaze\velocity_threshold.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\tracker\message.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\screen.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1523" topLine="108" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\tracker\message_test.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1258" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\include\eyelib\tracker.hpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1571" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\tracker\tracker.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1260" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\src\eyelib\tracker\tracker_state.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="1258" topLine="0" />
 		</Cursor>
