@@ -49,7 +49,7 @@ struct Screen;
   <tt>\#include \<eyelib.hpp\></tt> @a -or- @n
   <tt>\#include \<eyelib/tracker.hpp\></tt>
 
-  The Tracker class provides core eye tracker functionality.
+  The Tracker class provides core eye tracking functionality.
 */
 /// @{
 
