@@ -4,6 +4,7 @@ Eye tracking C++ library
 https://github.com/lucas137/eyelib
 
 ### Directory structure
+- `3rdparty ...........` 3rd party documentation
 - `bin ................` binaries
 - `cb .................` Code::Blocks projects
     - `calib ..........` Calibration app
@@ -16,6 +17,13 @@ https://github.com/lucas137/eyelib
 - `lib ................` static library
 - `src ................` source code
 - `test ...............` unit tests
+
+### Eye tracker
+Supported eye trackers. See `3rdparty` documentation.
+
+| Vendor        | Product           | Model number
+|---------------|-------------------|-------------
+| The Eye Tribe | Eye Tribe Tracker | ET1000
 
 ### Modules
 - `calib` -- Eye tracker calibration results (`calibration.hpp`)
