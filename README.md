@@ -25,6 +25,7 @@ Supported eye trackers. See `3rdparty` documentation.
 |---------------|-------------------|-------------
 | The Eye Tribe | Eye Tribe Tracker | ET1000
 
+
 ### Modules
 - `calib` -- Eye tracker calibration results (`calibration.hpp`)
   - Overall calibration state and error
