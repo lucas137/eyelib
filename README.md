@@ -5,7 +5,7 @@ https://github.com/lucas137/eyelib
 
 ### Directory structure
 - `3rdparty ...........` 3rd party documentation
-- `bin ................` binaries and scripts
+- `bin ................` binaries
 - `cb .................` Code::Blocks projects
     - `calib ..........` Calibration app
     - `datalog ........` Data logging app
